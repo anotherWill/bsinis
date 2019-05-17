@@ -1,0 +1,7 @@
+{
+  "presets": ["env", "react"],
+  "plugins": [["import", {
+    "libraryName": "@alifd/next", // 0.x 的话使用 @icedesign/base
+    "style": true
+  }]]
+ }
